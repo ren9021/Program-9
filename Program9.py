@@ -6,16 +6,7 @@
 #
 #  File Name:         Program9.py
 #
-#  Course:            COSC 1336 Programming Fundamentals I 
-#
-#  Due Date:          11-4-19
-#
-#  Instructor:        Fred Kumi 
-#
-#  Chapter:           Chapters # 1-7
-#
-#  Description:
-#     This program reads and displays the contents of a file.
+#  Description:       This program reads and displays the contents of a file
 #
 #***************************************************************
 
@@ -138,7 +129,6 @@ def AllMonths(rain):
 #**************************************************************
 def developerInfo():
     print('Name:     Renee White')
-    print('Course:   Programming Fundamentals I')
     print('Program:  9')
     print()
     # End of the developerInfo function
